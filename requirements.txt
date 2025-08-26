@@ -1,0 +1,4 @@
+Python 3.10
+PyQt6 6.7.0
+Telethon 1.39.0
+qasync 0.28.0
