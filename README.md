@@ -23,7 +23,7 @@
 ### 1. 克隆项目
 ```bash
 git clone https://github.com/qinian11/Telegram-Group-Cloner.git
-cd telegram-group-cloner
+cd telegramgroupcloner
 ```
 ### 2. 安装依赖
 ```bash
@@ -63,7 +63,7 @@ keywords =
 
 ### 启动应用
 ```bash
-python tg_group_cloner_ui.py
+python main.py
 ```
 
 ### 主要功能
@@ -180,4 +180,5 @@ telegram-group-cloner/
 作者：https://t.me/HY499
 交流群：https://t.me/amlhcgj
 **免责声明**: 本工具仅供学习和研究使用，使用者需自行承担使用风险，开发者不承担任何法律责任。
+
 
