@@ -180,5 +180,7 @@ telegram-group-cloner/
 作者：https://t.me/HY499
 交流群：https://t.me/amlhcgj
 **免责声明**: 本工具仅供学习和研究使用，使用者需自行承担使用风险，开发者不承担任何法律责任。
+<img width="1263" height="884" alt="image" src="https://github.com/user-attachments/assets/4d193515-ebd7-4a90-b173-9e6bd97fc259" />
+
 
 
